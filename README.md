@@ -93,7 +93,6 @@
          <img src="risse3.jpg" alt="Profile Picture" class="box">
     </div>
 </section>
-</section>
 
 <section id="contact">
     <h2>Contact Details</h2>
